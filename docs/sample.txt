@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers to learn complex patterns.
+Large Language Models (LLMs) are AI models trained on massive text datasets.
+Retrieval-Augmented Generation (RAG) combines search with language generation.
+IBM watsonx is an enterprise AI platform for building and deploying AI models.
